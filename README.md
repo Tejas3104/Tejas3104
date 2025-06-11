@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Welcome GIF">
+</p>
+
 # Hello, I'm Tejas Mahakalkar 👋
 
 💻 A 20 Y/O Developer from India 🇮🇳  
@@ -48,4 +52,3 @@
 - 📬 [Email Me](mailto:yourmail@example.com)  
 - 🌐 [Portfolio](https://yourportfolio.com) *(optional)*  
 - 🧵 [X (Twitter)](https://x.com/your-handle) *(if applicable)*
-
