@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1O1FVhHshG9ON8vSbOAupi&ust=1749747906664000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDthZDt6Y0DFQAAAAAdAAAAABBR)" width="400" alt="Welcome GIF">
+  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Welcome GIF">
 </p>
 
 # Hello, I'm Tejas Mahakalkar 👋
