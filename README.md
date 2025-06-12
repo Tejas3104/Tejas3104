@@ -78,7 +78,7 @@
 
 ## 🤝 Let's Connect:
 
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- 📬 [Email Me](mailto:yourmail@example.com)  
+- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tejas-mahakalkar-6267402a2/))  
+- 📬 [Email Me](mailto:tejasmahakalkar879@gmail.com)  
 - 🌐 [Portfolio](https://yourportfolio.com) *(optional)*  
-- 🧵 [X (Twitter)](https://x.com/your-handle) *(if applicable)*
+- 🧵 [X (Twitter)]([https://x.com/your-handle](https://x.com/TejasMahak23911)) *(if applicable)*
