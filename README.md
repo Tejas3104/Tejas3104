@@ -63,14 +63,16 @@
 
 ## 📊 GitHub Stats:
 
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas3104&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas3104&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph:
 
-[![Tejas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tejas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejas3104&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
 
 ---
 
